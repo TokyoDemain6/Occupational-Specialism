@@ -1,0 +1,61 @@
+Task 1
+
+Introduction
+stakeholders
+  internal
+  external
+deliverables
+constraints
+Legal and legislation
+  DPA
+  GDPR
+  Health and Safety
+  AUP
+
+Use Case
+Data Dictionary
+UML
+ERD
+Test  plan
+Development plan
+
+Design Documentation
+Appendix
+References to research
+
+
+
+
+
+
+
+
+The Proposal: 
+
+- Fully identifies of the problems to be solved
+
+- Effectively decomposes all of the problems identified
+ 
+The proposed solution would effectively:
+
+- meet the full needs of the client and user
+
+- mitigating all of the potential risks
+
+- addressing all of the relevant regulatory guidelines and legal requirements, in relation to software development and the industry.
+[12:52] Marsh, Joe
+The proposal provides comprehensive lines of reasoning that fully justify how:
+ 
+- the recommended solution meets the needs of the client and users
+
+- potential risks will be mitigated
+
+- the proposed solution will address relevant regulatory guidelines and legal requirements, in relation to software development and the industry.
+[12:52] Marsh, Joe
+The proposal provides comprehensive and perceptive definitions of: 
+
+- functional and non-functional requirements 
+
+- key performance indicators
+
+- user acceptance criteria
